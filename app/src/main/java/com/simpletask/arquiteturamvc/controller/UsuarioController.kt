@@ -10,7 +10,7 @@ class UsuarioController (
     private val usuarioAPI = UsuarioAPI()
 
     init {
-        recuperarUsuarios()
+        //recuperarUsuarios()
     }
 
     //regra de negocio
